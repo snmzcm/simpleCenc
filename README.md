@@ -1,6 +1,19 @@
 # Dead Simple C encryptor / decyrptor
 Easy ASCII shifter. Enter your words, enter a key(int) shifts it as much as your value of the key.
-Basit ASCII değeri kaydırır. (int)Key değeri kadar öteler.
+I used CS50 library just because of i made this project while attending CS50 Classes.
+
+### Prerequisites
+CS50 Library :
+ ```sh
+   git clone https://github.com/cs50/libcs50.git
+   ```
+   
+   OR
+   
+   Simply use it on CS50 Sandbox
+  ``` 
+   https://sandbox.cs50.io/
+   ```
 
 ###  Install
 
