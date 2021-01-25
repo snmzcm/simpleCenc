@@ -22,7 +22,7 @@ Basit ASCII değeri kaydırır. (int)Key değeri kadar öteler.
   
   Example:
   
-  .Cenc enc 7
+  ./Cenc enc 7
  
 ```
 mod = enc // encrpt mode , dec // decrypt mode
