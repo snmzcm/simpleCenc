@@ -1,5 +1,5 @@
 # Dead Simple C encryptor / decyrptor
-Easy ASCII shifter. Enter your words, enter a key(int) shifts it as much as your value of the key.
+Simple ASCII shifter written as first C program. Enter your words, enter a key(int) shifts it as much as your value of the key.
 I used CS50 library just because of i made this project while attending CS50 Classes.
 
 ### Prerequisites
